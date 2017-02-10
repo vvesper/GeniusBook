@@ -1,4 +1,7 @@
 Vanessa Rychlinski 506 Final Project README “GeniusBook” 12/13/16
+
+Python 2.7 
+
 1. Describe your project in 1-4 sentences. Include the basic summary of what it does, and the output that it should generate/how one can use the output and/or what question the output answers.
 
 GeniusBook uses words culled from your Facebook wall posts and runs them as keywords through Genius.com’s API. The searches match your words with song lyrics, and the user is given the option of reading the lyrics and viewing associated album art as well. 
